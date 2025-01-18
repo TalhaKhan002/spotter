@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* first section css  */
+.first-section {
+    background-image: url("Wind\ OEMs_v4.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 720px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 25px;
+}
+.left-side{
+    margin-left: 100px;
+}
+.right-side{
+    margin-right: 100px;
+}
+h1.first-sec-h{
+    text-align: center;
+    padding-top: 100px;
+}
+.first-sec-h{
+    font-size: 50px;
+    font-weight: 500;
+}
+.first-sec-p{
+    font-size: 25px;
+    font-weight: 100;
+    margin-left: 220px;
+    margin-top: 30px;
+}
+.first-sec-btn{
+    margin-left: 220px;
+    margin-top: 12px;
+    background-color: rgb(91, 91, 233);
+    color: white;
+    padding: 10px;
+    width: 150px;
+    border: 1px solid grey;
+    border-radius: 15px;
+}
+
+/* second section css  */
+.second-sec{
+    background-image: url(sec\ 9.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 800px;
+}
+
+/* third section css */
+.third-sec{
+    background-image: url(sec\ 8.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 800px;
+}
+
+/* fourth section css */
+.fourth-sec{
+    background-image: url(sec\ 7.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 800px;   
+}
+
+
+
+/* fifth section css */
+.fifth-sec{
+    background-image: url(sec\ 6.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 800px;   
+}
+
+
+/* sixth section css */
+.sixth-sec{
+    background-image: url(sec\ 5.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 800px;   
+}
+
+
+
+/* seventh section css */
+.seventh-sec{
+    background-image: url(sec\ 4.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 800px;   
+}
+
+
+/* eight section css */
+.eight-sec{
+    background-image: url(sec\ 10.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 800px;   
+}
+
+
+
+
+/* ningth section css */
+.ningth-sec{
+    background-image: url(sec\ 2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 800px;   
+}
